@@ -27,8 +27,6 @@ A clothing brand documenting the journey of building a business from zero.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ### Frontend
 
 - React
@@ -69,18 +67,7 @@ A clothing brand documenting the journey of building a business from zero.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jhay-tee&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhay-tee&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jhay-tee&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📌 Featured Projects
 
@@ -94,5 +81,3 @@ A clothing brand documenting the journey of building a business from zero.
 ## 📫 Connect
 
 - GitHub: https://github.com/Jhay-tee
-- LinkedIn: *Coming Soon*
-- Portfolio: *Coming Soon*
