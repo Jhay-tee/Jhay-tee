@@ -1,4 +1,3 @@
-
 # Hi there, I'm Jonathan Akpan 👋
 
 ### Civil Engineering Student | Software Engineer | AI Builder
@@ -24,29 +23,34 @@ A clothing brand documenting the journey of building a business from zero.
 
 ## 💻 Tech Stack
 
-**Frontend**
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
 
 - React
 - Vite
 - Tailwind CSS
 
-**Backend**
+### Backend
 
 - Node.js
 - Express.js
 
-**Database & CMS**
+### Database & CMS
 
 - Supabase
 - Sanity
 
-**AI & Machine Learning**
+### AI & Machine Learning
 
 - Google Gemini API
 - TensorFlow
 
-
-**Tools**
+### Tools
 
 - Git
 - GitHub
@@ -68,13 +72,12 @@ A clothing brand documenting the journey of building a business from zero.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jhay-tee&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhay-tee&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Jhay-tee&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -83,13 +86,13 @@ A clothing brand documenting the journey of building a business from zero.
 
 - 🧮 **Engineering Studio** — AI-powered engineering platform.
 - 📖 **RANT N' RAVE** — Online book club and digital library.
-- 👕 **Otobong** — Streetwear brand.
+- 👕 **Otobong** — Clothing brand.
 - 🤖 More AI and software projects coming soon.
 
 ---
 
 ## 📫 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Jhay-tee
 - LinkedIn: *Coming Soon*
 - Portfolio: *Coming Soon*
